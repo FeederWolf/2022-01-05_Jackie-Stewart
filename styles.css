@@ -1,7 +1,10 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-family: Arial, Helvetica, sans-serif;
-    
+}
+#content{
+    max-width: 1280px;
+    margin: 0 auto;
 }
 .container, footer, header {
     padding: 20px;
