@@ -7,7 +7,7 @@ body{
     max-width: 1280px;
     margin: 0 auto;
 }
-.container, footer, header {
+.container, header {
     padding: 20px;
     border-left: 1px solid burlywood;
     border-right: 1px solid burlywood;
